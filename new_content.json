@@ -1,4 +1,14 @@
 {
-    "latest_version": "1.1",
-    "download_url": "https://raw.githubusercontent.com/wevls/Updatecheck/refs/heads/main/content.zip"
+    "Executor": {
+        "latest_version": "1.1",
+        "download_url": "https://raw.githubusercontent.com/wevls/Updatecheck/main/content2.zip"
+    },
+    "Multitool": {
+        "latest_version": "1.0",
+        "download_url": "https://raw.githubusercontent.com/wevls/Updatecheck/main/content.zip"
+    },
+    "Premium": {
+        "latest_version": "0.0",
+        "download_url": ""
+    }
 }
