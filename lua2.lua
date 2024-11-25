@@ -2,7 +2,7 @@
 local http = require("socket.http")
 
 -- URL of the raw Lua file on GitHub
-local url = "https://raw.githubusercontent.com/username/repository/branch/script.lua"
+local url = "https://raw.githubusercontent.com/wevls/Updatecheck/refs/heads/main/lua.lua"
 
 -- Fetch the Lua script from GitHub
 local response, status = http.request(url)
